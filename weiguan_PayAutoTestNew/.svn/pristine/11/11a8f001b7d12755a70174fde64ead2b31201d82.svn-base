@@ -1,0 +1,7 @@
+ DB_DRIVER = com.mysql.jdbc.Driver
+ DB_USERNAME = mlstmpdb
+ DB_PASSWORD = mlstmpdb123456
+ #default/qalab1/qalab2/qalab3
+ DB_DataBase=default
+
+

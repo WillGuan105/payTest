@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [meilishuo]">
+  <test name="NormalOrder(failed)">
+    <classes>
+      <class name="com.mls.pay.access.testcase.FreightCoupon_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightCoupon_bak -->
+      <class name="com.mls.pay.access.testcase.FreightWalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightWalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.SeveralGoods_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.SeveralGoods_bak -->
+      <class name="com.mls.pay.access.testcase.NormalOrder_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="normalorder" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27"/>
+          <include name="create_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.NormalOrder_bak -->
+      <class name="com.mls.pay.access.testcase.WalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="end_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.WalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.TestConfig">
+        <methods>
+          <include name="endResultFile"/>
+          <include name="createResultFile"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.TestConfig -->
+    </classes>
+  </test> <!-- NormalOrder(failed) -->
+  <test name="WalletPay(failed)">
+    <classes>
+      <class name="com.mls.pay.access.testcase.FreightCoupon_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightCoupon_bak -->
+      <class name="com.mls.pay.access.testcase.FreightWalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightWalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.SeveralGoods_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.SeveralGoods_bak -->
+      <class name="com.mls.pay.access.testcase.NormalOrder_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.NormalOrder_bak -->
+      <class name="com.mls.pay.access.testcase.TestConfig">
+        <methods>
+          <include name="endResultFile"/>
+          <include name="createResultFile"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.TestConfig -->
+      <class name="com.mls.pay.access.testcase.WalletPay_bak">
+        <methods>
+          <include name="walletpay" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19"/>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="end_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.WalletPay_bak -->
+    </classes>
+  </test> <!-- WalletPay(failed) -->
+  <test name="FreightCoupon(failed)">
+    <classes>
+      <class name="com.mls.pay.access.testcase.FreightCoupon_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="freightcoupon" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightCoupon_bak -->
+      <class name="com.mls.pay.access.testcase.FreightWalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightWalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.SeveralGoods_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.SeveralGoods_bak -->
+      <class name="com.mls.pay.access.testcase.NormalOrder_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.NormalOrder_bak -->
+      <class name="com.mls.pay.access.testcase.WalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="end_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.WalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.TestConfig">
+        <methods>
+          <include name="endResultFile"/>
+          <include name="createResultFile"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.TestConfig -->
+    </classes>
+  </test> <!-- FreightCoupon(failed) -->
+  <test name="FreightWalletPay(failed)">
+    <classes>
+      <class name="com.mls.pay.access.testcase.FreightCoupon_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightCoupon_bak -->
+      <class name="com.mls.pay.access.testcase.FreightWalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="freightwalletpay" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightWalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.SeveralGoods_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.SeveralGoods_bak -->
+      <class name="com.mls.pay.access.testcase.NormalOrder_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.NormalOrder_bak -->
+      <class name="com.mls.pay.access.testcase.WalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="end_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.WalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.TestConfig">
+        <methods>
+          <include name="endResultFile"/>
+          <include name="createResultFile"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.TestConfig -->
+    </classes>
+  </test> <!-- FreightWalletPay(failed) -->
+  <test name="SeveralGoods(failed)">
+    <classes>
+      <class name="com.mls.pay.access.testcase.FreightCoupon_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightCoupon_bak -->
+      <class name="com.mls.pay.access.testcase.FreightWalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.FreightWalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.SeveralGoods_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="severalgoods" invocation-numbers="0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.SeveralGoods_bak -->
+      <class name="com.mls.pay.access.testcase.NormalOrder_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="end_tbody"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.NormalOrder_bak -->
+      <class name="com.mls.pay.access.testcase.WalletPay_bak">
+        <methods>
+          <include name="springTestContextAfterTestClass"/>
+          <include name="springTestContextBeforeTestClass"/>
+          <include name="springTestContextBeforeTestMethod"/>
+          <include name="springTestContextPrepareTestInstance"/>
+          <include name="springTestContextAfterTestMethod"/>
+          <include name="create_tbody"/>
+          <include name="end_tbody"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.WalletPay_bak -->
+      <class name="com.mls.pay.access.testcase.TestConfig">
+        <methods>
+          <include name="endResultFile"/>
+          <include name="createResultFile"/>
+        </methods>
+      </class> <!-- com.mls.pay.access.testcase.TestConfig -->
+    </classes>
+  </test> <!-- SeveralGoods(failed) -->
+</suite> <!-- Failed suite [meilishuo] -->

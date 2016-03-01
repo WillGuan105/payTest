@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mls.paycache:paycache-client-util:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mls/paycache/paycache-client-util/1.0-SNAPSHOT/paycache-client-util-1.0-20140702.085129-2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mls/paycache/paycache-client-util/1.0-SNAPSHOT/paycache-client-util-1.0-20140702.085129-2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mls/paycache/paycache-client-util/1.0-SNAPSHOT/paycache-client-util-1.0-20140702.085129-2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

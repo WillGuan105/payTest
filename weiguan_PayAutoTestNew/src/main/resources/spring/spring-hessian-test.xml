@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" "http://www.springframework.org/dtd/spring-beans.dtd">
+<beans default-lazy-init="false" default-autowire="no" default-dependency-check="none">
+
+    <bean id="quickPayFacade" class="org.springframework.remoting.caucho.HessianProxyFactoryBean" lazy-init="default" autowire="default" dependency-check="default">
+        <property name="serviceUrl" value="http://qa.paychannel.sysproxy.meilishuo.com/pay-channel-access/hessian/quickPayFacade" />
+        <property name="serviceInterface" value="com.mls.pay.bankchannel.common.QuickPayFacade" />
+        <property name="overloadEnabled" value="true" />
+    </bean>
+
+
+
+    <bean id="gateWayPayFacade" class="org.springframework.remoting.caucho.HessianProxyFactoryBean" lazy-init="default" autowire="default" dependency-check="default">
+        <property name="serviceUrl" value="http://qa.paychannel.sysproxy.meilishuo.com/pay-channel-access/hessian/gateWayPayFacade" />
+        <property name="serviceInterface" value="com.mls.pay.bankchannel.common.GateWayPayFacade" />
+        <property name="proxyFactory" ref="timeoutHessianProxyFactory" />
+    </bean>
+
+
+    <bean id="timeoutHessianProxyFactory" class="com.caucho.hessian.client.HessianProxyFactory" lazy-init="default" autowire="default" dependency-check="default">
+        <property name="connectTimeout" value="3000" />
+        <property name="readTimeout" value="3000" />
+    </bean>
+
+    <bean id="AccountBusinessFacade" class="org.springframework.remoting.caucho.HessianProxyFactoryBean" lazy-init="default" autowire="default" dependency-check="default">
+        <property name="serviceUrl" value="http://account-web.xneng.meilishuo.com/account-web-0.0.10/hessian/accountBusinessFacade" />
+        <property name="serviceInterface" value="com.mls.pay.account.common.business.AccountBusinessFacade" />
+        <property name="proxyFactory" ref="timeoutHessianProxyFactory" />
+    </bean>
+
+    <bean id="UserBusinessFacade" class="org.springframework.remoting.caucho.HessianProxyFactoryBean" lazy-init="default" autowire="default" dependency-check="default">
+        <property name="serviceUrl" value="http://account-web.xneng.meilishuo.com/account-web-0.0.10/hessian/userBusinessFacade" />
+        <property name="serviceInterface" value="com.mls.pay.account.common.business.UserBusinessFacade" />
+        <property name="proxyFactory" ref="timeoutHessianProxyFactory" />
+    </bean>
+
+    <bean id="asyncKeepAccountBusinessFacade" class="org.springframework.remoting.caucho.HessianProxyFactoryBean" lazy-init="default" autowire="default" dependency-check="default">
+        <property name="serviceUrl" value="http://account-web.yicheng.qalab.meilishuo.com/hessian/asyncKeepAccountBusinessFacade" />
+        <property name="serviceInterface" value="com.mls.pay.account.common.business.KeepAccountBusinessFacade" />
+        <property name="proxyFactory" ref="timeoutHessianProxyFactory" />
+    </bean>
+
+    <bean id="syncKeepAccountBusinessFacade" class="org.springframework.remoting.caucho.HessianProxyFactoryBean" lazy-init="default" autowire="default" dependency-check="default">
+        <property name="serviceUrl" value="http://account-web.yicheng.qalab.meilishuo.com/hessian/syncKeepAccountBusinessFacade" />
+        <property name="serviceInterface" value="com.mls.pay.account.common.business.KeepAccountBusinessFacade" />
+        <property name="proxyFactory" ref="timeoutHessianProxyFactory" />
+    </bean>
+
+</beans>

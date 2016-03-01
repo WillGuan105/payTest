@@ -1,0 +1,521 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 128, Failures: 128, Errors: 0, Skipped: 0, Time elapsed: 83.673 sec <<< FAILURE!
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 79.769 sec  <<< FAILURE!
+java.lang.ExceptionInInitializerError
+	at com.mls.pay.access.common.CommonTest_bak.<clinit>(CommonTest_bak.java:21)
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+Caused by: java.lang.NullPointerException
+	at com.mls.pay.access.common.CheckData.check_userAccount(CheckData.java:398)
+	at com.mls.pay.access.common.CommonMethod.<clinit>(CommonMethod.java:115)
+	... 38 more
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.002 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+normalorder(com.mls.pay.access.testcase.NormalOrder_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.NormalOrder_bak.normalorder(NormalOrder_bak.java:61)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.007 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+walletpay(com.mls.pay.access.testcase.WalletPay_bak)  Time elapsed: 0.008 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.WalletPay_bak.walletpay(WalletPay_bak.java:57)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightcoupon(com.mls.pay.access.testcase.FreightCoupon_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightCoupon_bak.freightcoupon(FreightCoupon_bak.java:63)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+freightwalletpay(com.mls.pay.access.testcase.FreightWalletPay_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.FreightWalletPay_bak.freightwalletpay(FreightWalletPay_bak.java:62)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0.001 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+
+severalgoods(com.mls.pay.access.testcase.SeveralGoods_bak)  Time elapsed: 0 sec  <<< FAILURE!
+java.lang.NoClassDefFoundError: Could not initialize class com.mls.pay.access.common.CommonTest_bak
+	at com.mls.pay.access.testcase.SeveralGoods_bak.severalgoods(SeveralGoods_bak.java:60)
+

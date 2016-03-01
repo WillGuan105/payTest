@@ -1,0 +1,19 @@
+ #mlspay_server
+ DB_NAME=mlspay_server_qa1
+ DB_HOSTIP = 10.8.3.40
+ DB_PORT = 3323
+
+ #pay_trade
+ DB_NAME_T=pay_trade_qa1
+ DB_HOSTIP_T = 10.8.3.36
+ DB_PORT_T = 3342
+
+ #pay_pay
+ DB_NAME_P=pay_pay_qa1
+ DB_HOSTIP_P = 10.8.3.36
+ DB_PORT_P = 3342
+
+ #pay_refund
+ DB_NAME_R=pay_refund_qa1
+ DB_HOSTIP_R = 10.8.3.36
+ DB_PORT_R = 3342

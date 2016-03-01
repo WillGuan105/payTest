@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="meilishuo" verbose="0" junit="false" parallel="false" configfailurepolicy="skip" thread-count="5" skipfailedinvocationcounts="false" data-provider-thread-count="10">
+
+
+    <test name="PayAutoTestCase" junit="false" skipfailedinvocationcounts="false" preserve-order="true">
+        <classes>
+            <class name="com.mls.pay.access.testcase.TestConfig"/>
+        </classes>
+    </test>
+
+
+    <!--<test name="PayAccessInter" junit="false" skipfailedinvocationcounts="false" preserve-order="true">-->
+		<!--<classes>-->
+			<!--<class name="com.mls.pay.access.testcase.PayAccessInter_bak" />-->
+		<!--</classes>-->
+	<!--</test>-->
+
+    <test name="NormalOrder" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >
+        <classes>
+            <class name="com.mls.pay.access.testcase.NormalOrder_bak" />
+        </classes>
+    </test>
+
+    <test name="WalletPay" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >
+    <classes>
+    <class name="com.mls.pay.access.testcase.WalletPay_bak" />
+    </classes>
+    </test>
+
+    <test name="FreightCoupon" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >
+    <classes>
+    <class name="com.mls.pay.access.testcase.FreightCoupon_bak" />
+    </classes>
+    </test>
+
+    <test name="FreightWalletPay" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >
+    <classes>
+    <class name="com.mls.pay.access.testcase.FreightWalletPay_bak" />
+    </classes>
+    </test>
+
+    <test name="SeveralGoods" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >
+    <classes>
+    <class name="com.mls.pay.access.testcase.SeveralGoods_bak" />
+    </classes>
+    </test>
+
+    <!--<test name="NormalOrder" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >-->
+        <!--<classes>-->
+            <!--<class name="com.mls.pay.access.testcase.NormalOrder" />-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="WalletPay" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >-->
+        <!--<classes>-->
+            <!--<class name="com.mls.pay.access.testcase.WalletPay" />-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="FreightCoupon" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >-->
+        <!--<classes>-->
+            <!--<class name="com.mls.pay.access.testcase.FreightCoupon" />-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="FreightWalletPay" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >-->
+        <!--<classes>-->
+            <!--<class name="com.mls.pay.access.testcase.FreightWalletPay" />-->
+        <!--</classes>-->
+    <!--</test>-->
+
+    <!--<test name="SeveralGoods" junit="false" skipfailedinvocationcounts="false" preserve-order="true" >-->
+        <!--<classes>-->
+            <!--<class name="com.mls.pay.access.testcase.SeveralGoods" />-->
+        <!--</classes>-->
+    <!--</test>-->
+
+</suite>

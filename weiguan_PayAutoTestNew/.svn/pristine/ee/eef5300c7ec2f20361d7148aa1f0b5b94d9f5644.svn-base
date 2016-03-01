@@ -1,0 +1,7 @@
+ DB_DRIVER = com.mysql.jdbc.Driver
+ DB_NAME=mlspay_server
+ DB_USERNAME = mlstmpdb
+ DB_PASSWORD = mlstmpdb123456
+ DB_HOSTIP = 10.8.3.40
+ DB_PORT = 3323
+					

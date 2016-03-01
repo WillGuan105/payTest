@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.mls.paymonitor:paymonitor-client-util:1.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mls/paymonitor/paymonitor-client-util/1.0-SNAPSHOT/paymonitor-client-util-1.0-20150720.111445-1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mls/paymonitor/paymonitor-client-util/1.0-SNAPSHOT/paymonitor-client-util-1.0-20150720.111445-1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/mls/paymonitor/paymonitor-client-util/1.0-SNAPSHOT/paymonitor-client-util-1.0-20150720.111445-1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
